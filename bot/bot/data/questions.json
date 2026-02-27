@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Python'da liste oluşturmak için hangi parantez kullanılır?",
+    "choices": ["{}", "[]", "()", "<>"] ,
+    "answer": 1
+  },
+  {
+    "question": "Discord botlarında slash komutları hangi modülle yönetilir?",
+    "choices": ["discord.ui", "discord.app_commands", "discord.voice", "discord.http"],
+    "answer": 1
+  },
+  {
+    "question": "'len(\"quiz\")' ifadesinin çıktısı nedir?",
+    "choices": ["3", "4", "5", "Hata verir"],
+    "answer": 1
+  },
+  {
+    "question": "Python'da çevresel değişken okumak için hangi modül kullanılır?",
+    "choices": ["sys", "pathlib", "os", "typing"],
+    "answer": 2
+  }
+]
